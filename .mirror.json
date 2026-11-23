@@ -1,5 +1,16 @@
 {
- "assets": {},
+ "assets": {
+  "Rust001": "cb047c276980f124153bf175921142784d3de21d",
+  "Rust002": "9bccc60a3eb4b0c03420004a91ae53273901964d",
+  "Rust003": "fe544c372c322804de49815dbd4d8d165c7467eb",
+  "Rust004": "5f94e111a4c7398632a7efa7272a60fd899e46a8",
+  "Rust005": "f7e6cc1869623912107bfb411d16de8254c95561",
+  "Rust006": "e0d34824e48f492c7647410bb6a00512b83c3a45",
+  "Rust007": "385c21ee9e1b8404ea800fa0fbe69ba689ccacde",
+  "Rust008": "96d5dbd76a416a55d338b083ffa8ac4a43d8f6d6",
+  "Rust009": "083e04f2037ed79302331432d468e0124c55cb3c",
+  "Rust010": "ea25ce8eff0ee5a2c13654cffe4128d2f2f3b52a"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
